@@ -1,0 +1,6 @@
+framework module TakeMePayWeChatPaySupport {
+  umbrella header "TakeMePayWeChatPaySupport.h"
+
+  export *
+  module * { export * }
+}
